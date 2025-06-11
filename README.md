@@ -1,1 +1,3 @@
 # SmartESG
+
+Le projet Smart ESG vise à révolutionner la manière dont les municipalités abordent leurs objectifs Environnementaux, Sociaux et de Gouvernance (ESG) en intégrant des solutions avancées d'Intelligence Artificielle. En utilisant l'IA pour analyser en temps réel les données ESG, Smart ESG permet une transparence accrue, une conformité automatisée et des insights prédictifs pour anticiper les risques et maximiser l'impact positif. Notre solution aide les municipalités à naviguer dans les défis actuels de durabilité et de responsabilité, leur offrant une gestion optimisée et des décisions éclairées pour un avenir plus vert et éthique.
